@@ -4,7 +4,9 @@ print(bin(a))
 print(oct(a))
 print(hex(a))
 
-b=-15
+b=15
 print(bin(b))
-c=5.8
-print(bin(c))
+c=5
+print(hex(c))
+print(oct(b))
+print(bin(b),hex(b),oct(b),int(b))
