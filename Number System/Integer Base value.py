@@ -7,3 +7,5 @@ d="101"
 print(int(d,base=2))
 print(int(d,base=8))
 print(int(d,base=3))
+print(int(d,base=16))
+print(oct(d))
